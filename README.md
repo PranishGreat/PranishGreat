@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @PranishGreat
+- 👋 Hi, I’m Pranish
 - 👀 I’m interested in Technology and Coding stuff.
-- 🌱 I’m currently learning AWS,K8s,docker
+- 🌱 I’m currently learning AWS,K8s,docker, Javascript Framework, Data Analytics
 - 📫 How to reach me ...
 
 <!---
